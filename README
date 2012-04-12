@@ -1,0 +1,14 @@
+vim-close-duplicate-tabs
+
+Vim Plugin for closing duplicate tabs
+
+When using tab pages, this plugin can help you close tabs
+with the same file that might have accidentaly opened while
+editting in a rush.
+
+I wrote this because sometimes I open the same file in several
+tabs, so it may get a little messy and this helps me clean it up.
+
+I am not very familiar with Vimscript and I know there might be
+better ways to write some things from this little script. I am
+open to suggestions.
